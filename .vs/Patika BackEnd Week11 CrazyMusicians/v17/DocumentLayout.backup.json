@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\patika backend week11 crazymusicians\\crazymusicians\\controllers\\musicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\controllers\\musicianscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\patika backend week11 crazymusicians\\crazymusicians\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|c:\\users\\user\\desktop\\patika backend week11 crazymusicians\\crazymusicians\\models\\musicians.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293192C7-C840-46EE-B324-76DE909FBC43}|CrazyMusicians\\CrazyMusicians.csproj|solutionrelative:crazymusicians\\models\\musicians.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Program.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Program.cs",
+              "RelativeToolTip": "CrazyMusicians\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:51:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusiciansController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "RelativeToolTip": "CrazyMusicians\\Controllers\\MusiciansController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwHcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:12:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musicians.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Models\\Musicians.cs",
+              "RelativeDocumentMoniker": "CrazyMusicians\\Models\\Musicians.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika BackEnd Week11 CrazyMusicians\\CrazyMusicians\\Models\\Musicians.cs",
+              "RelativeToolTip": "CrazyMusicians\\Models\\Musicians.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:08:41.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
